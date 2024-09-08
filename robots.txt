@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kbnuad.github.io/eyZ/sitemap.eyZ.gz
